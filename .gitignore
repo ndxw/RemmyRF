@@ -1,0 +1,8 @@
+CAD_models
+schematics/Mouse-backups
+datasheets
+**/*.zip
+**/OldVersions
+**/Debug
+**/.vs/
+sample_bst3360_firmware
