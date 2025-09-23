@@ -1,4 +1,4 @@
-24465056919061241
+24470332267471542
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55027,6 +55027,13 @@ Through hole socket strip THT 2x05 2.54mm double row
 10
 10
 Custom_FP
+QFN-12-1EP_3x3mm_P0.5mm_EP1.45x1.45mm
+
+
+0
+13
+13
+Custom_FP
 QFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
 QFN, 32 Pin
 QFN NoLead
@@ -58324,6 +58331,13 @@ ADXL345
 14
 14
 Imported_FP
+QFN-10_2mmx2mm_MNP
+
+MP2667GG-0000-Z 
+0
+10
+10
+Imported_FP
 R-667_MIT
 4x4mm low profile normally off tactile pushbutton
 R-667842 
@@ -58372,6 +58386,13 @@ USB-C receptacle 16-pin THT with board guides
 0
 20
 20
+Imported_FP
+XTAL_ABS06-32.768KHZ-9-T
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height

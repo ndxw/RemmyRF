@@ -444,7 +444,18 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Crystal",
+      "Capacitor_SMD",
+      "Inductor_SMD",
+      "Resistor_SMD",
+      "RF_Antenna",
+      "Connector",
+      "Connector_PinHeader_1.27mm",
+      "Connector_PinSocket_1.27mm",
+      "Connector_PinHeader_2.54mm",
+      "Connector_PinSocket_2.54mm"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
